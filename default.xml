@@ -40,7 +40,7 @@
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
   <project path="external/bash" name="MoKee/android_external_bash" />
-  <project path="device/NUBIU/NX404H" name="NUBIANX404H/android_device_nubia_nx404h" revision="master" />
+  <project path="device/NUBIA/NX404H" name="NUBIANX404H/android_device_nubia_nx404h" revision="master" />
   <project path="kernel/NUBIA/NX501J" name="sattarvoybek/NX501J"  revision="master" />
   <project path="vendor/NUBIA/NX404H" name="NUBIANX404H/android_vendor_nubia_nx404h"  revision="master"/>
   <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" clone-depth="1" />
