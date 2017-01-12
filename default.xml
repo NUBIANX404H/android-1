@@ -40,9 +40,11 @@
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
   <project path="external/bash" name="MoKee/android_external_bash" />
-  <project path="device/NUBIA/NX404H" name="NUBIANX404H/android_device_nubia_nx404h" revision="master" />
-  <project path="kernel/NUBIA/NX501J" name="sattarvoybek/NX501J"  revision="master" />
-  <project path="vendor/NUBIA/NX404H" name="NUBIANX404H/android_vendor_nubia_nx404h"  revision="master"/>
+  <project path="device/NUBIA/NX404H" name="nubia-dev-msm8226/android_device_nubia_nx404h" revision="mkm" />
+  <project path="device/NUBIA/X9180" name="nubia-dev-msm8226/android_device_nubia_x9180" revision="mkm" />
+  <project path="kernel/NUBIA/MSM8226" name="nubia-dev-msm8226/android_kernel_nubia_msm8226"  revision="mkm" />
+  <project path="vendor/NUBIA/NX404H" name="nubia-dev-msm8226/android_vendor_nubia_nx404h"  revision="mkm"/>
+  <project path="vendor/NUBIA/X9180" name="nubia-dev-msm8226/android_vendor_nubia_x9180"  revision="mkm"/>
   <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" clone-depth="1" remote="aosp" />
   <project path="external/connectivity" name="MoKee/android_external_connectivity" />
   <project path="external/google" name="MoKee/android_external_google" />
